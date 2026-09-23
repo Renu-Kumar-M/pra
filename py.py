@@ -1,4 +1,3 @@
 print("hello")
-b=int(input())
-a=50+40+b
+a=50+40+
 print(a)
